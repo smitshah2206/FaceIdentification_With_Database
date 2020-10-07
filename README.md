@@ -10,7 +10,7 @@ Hello,</br>Face identification algorithms focus on the identifiction of frontal 
 
 -	<b>Software Requirement</b>  
             i] Python v2.7 IDLE  
-           ii] Text Editor or Python IDE [eg Eg Notepad++,Anaconda]  
+           ii] Text Editor or Python IDE [eg Eg JupiterNotebook++,Anaconda]  
 -	<b>Package Requirement</b>  
 		        i] OpenCv 	[For Image Processing]  
            ii] Pymysql 	[For Database]  
